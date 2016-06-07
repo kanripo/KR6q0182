@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:47:22.702597
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:30
 #+TITLE: 道餘錄
 #+PROPERTY: CBETA_ID J20nB091
 #+PROPERTY: ID KR6q0182
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6q0182_J_001-0329a> 
 #+PROPERTY: JUAN 1
 
-序¶
+* 序¶
 
 余曩為僧時，值元季兵亂，年近三十，從愚庵及和尚¶
 于徑山習禪，學暇則披閱內外典籍，以資才識。因觀¶
@@ -44,7 +44,7 @@
 
 <pb:KR6q0182_J_001-0329b>¶
 
-道餘錄
+* 道餘錄
  道餘錄¶
 逃虛子姚廣孝著¶
 卓吾李贄閱¶
